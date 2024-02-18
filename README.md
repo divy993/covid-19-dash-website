@@ -3,6 +3,8 @@
 - Exceute `pip install -r requirements.txt`.
 - run `python manage.py runserver`.
 - Go to `127.0.0.1::8000` in your web browser.
+
+
 to setup virtual enviorments
 python -m venv env
 env/Scripts/activate
@@ -10,9 +12,10 @@ env/Scripts/activate
 python manage.py runserver
 
 http://127.0.0.1:8000/
+
 staff login
-kuldeep
-ram12345
+username-kuldeep
+password-ram12345
 
 admin login
  http://127.0.0.1:8000/admin
